@@ -1,7 +1,8 @@
 # Pollster
 
 A Django 2.x polling app based off the one from the docs
-Via Traversy Media
+via Django Documentation
+and Traversy Media
 #
 #
 # Project screenshots
